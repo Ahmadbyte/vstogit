@@ -1,0 +1,2 @@
+import pywhatkit as pwt
+pwt.sendwhatmsg("+916006392986",i m sorry jaan,please smile jaan",1,14)
